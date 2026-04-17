@@ -1,4 +1,4 @@
-# PDF-XChange Editor – Professional PDF Workflow & Annotation Tool
+# PDF XChange Editor
 
 **PDF-XChange Editor** is a powerful, flexible PDF solution designed to help individuals and teams review documents, fill forms, and manage digital workflows.  
 With **PDF-XChange Editor**, you can transform static PDFs into interactive collaboration hubs.  
